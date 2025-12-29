@@ -1,7 +1,7 @@
 # Understanding Traffic Enforcement Dynamics
 ## Traffic Demand and Escalation Risk Patterns in IL
 
-As traffic enforcement is one of the most common interactions between the public and law enforcement, understanding traffic stop patterns is essential for police departments looking to allocate their resources efficiently and improving performance, which this project does in order to provide a foundation for these organizations to make data-driven decisions.
+As traffic enforcement is one of the most common interactions between the public and law enforcement, understanding traffic stop patterns is essential for police departments looking to allocate their resources efficiently and improve performance, which this project does in order to provide a foundation for these organizations to make data-driven decisions.
 
 ### Tech Stack Used
 - Python
